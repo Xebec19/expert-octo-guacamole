@@ -1,0 +1,27 @@
+body{
+    background-color: tomato;
+    color: white;
+}
+.center{
+    text-align:center;
+    font-size:2em;
+    margin-bottom:30px;
+}
+.center h1{
+    background-color: rgba(50,50,0,0.5);
+}
+.new{
+    text-align:left;
+    color:black;
+    margin-bottom:30px;
+    font-size:2em;
+}
+.new h1{
+    background-color:rgba(50,50,0.5);
+}
+.new h1{
+    text-align: left;
+    color:black;
+    margin-bottom: 20px;
+    font-size:2em;
+}
